@@ -13,6 +13,8 @@ class MainActivity : AppCompatActivity() {
 
     private val test4 = "TEST4"
 
+    private val test5 = "TEST5"
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
