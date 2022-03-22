@@ -21,6 +21,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun observe() {
-
+        var str = "SDFJHSDFJSDHF"
     }
 }
